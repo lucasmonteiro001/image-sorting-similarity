@@ -1,0 +1,152 @@
+2binoculos - balaomensagem(335.7737) 2pinosboliche(369.2018) binoculos2(374.3314) balaomensagembranco(376.7346) balaomensagembrancorepetido(376.7346)
+2dadosbrancos - balao(386.5437) beijaflor3(470.5752) baleia8(472.1218) HomerSimpson(473.9905) beijaflor8(484.2716)
+2fatiasdemelancia - beijaflor2(405.5823) binoculos(405.5897) bandeiraEUAnuvens(429.2691) balaomensagembranco(444.6234) balaomensagembrancorepetido(444.6234)
+2pinosboliche - avepreta(314.3835) 2binoculos(369.2018) anel4(379.2057) beijaflor8(389.5125) balao7(403.4167)
+2tacosbaseball - balao4(404.7876) balao7(413.5323) aneldiamante3(428.3246) aneldiamante4(431.5518) avepreta(438.0947)
+2tacosdebaseballseparados - aneldiamante(405.4528) aneldiamante4(412.3676) balaomensagem3(416.4457) banheirabranca2(420.0286) anel(424.2570)
+3boloscasamento - balaodiferente(398.3629) bicicletamarela(421.5222) aneldiamante5(430.0209) HomerSimpson4(433.9113) aneldiamante(447.1085)
+3fatiasdemelancia - baleia15(385.7072) avelagoa(430.7087) bicicletavermelha(430.9884) HomerSimpson5(442.0565) baleia12(445.3347)
+3pneus - beijaflor8(322.3026) baleia14(382.8851) 2binoculos(409.0758) baleia7(412.1359) binoculosnormal(415.5647)
+5peixes - banheirabranca(381.1115) beijaflor5(433.1039) baleia5(433.8652) baleia9(434.8528) binoculoslonge(437.0309)
+HomerSimpson - aneldiamante7(411.8252) beijaflor6(420.0583) HomerSimpson2(437.0092) HomerSimpson7(437.5523) banheirabrancabasica(441.7669)
+HomerSimpson2 - balaomensagem2(377.0106) banheirabrancaluxo(408.0870) balao(413.4368) baleia(434.9747) HomerSimpson(437.0092)
+HomerSimpson3 - HomerSimpson5(389.1632) HomerSimpson8(435.0333) balao8(441.5495) aneldiamante6(443.3599) baleia3(455.8947)
+HomerSimpson4 - 3boloscasamento(433.9113) balao9(434.7942) baleia2(435.0862) balaodiferente(474.8073) bicicletamarela(476.7032)
+HomerSimpson5 - HomerSimpson3(389.1632) baleia12(407.0172) bicicletavermelha(415.2313) aneldiamante6(429.6859) avelagoa(440.3839)
+HomerSimpson6 - binoculoscinza(388.2332) binoculoslonge(443.9640) baleia7(464.1928) beijaflor8(470.1234) 5peixes(470.5082)
+HomerSimpson7 - beijaflor(391.2736) banheirabrancaluxo(425.2552) baleia5(437.1647) HomerSimpson(437.5523) baleia9(439.4826)
+HomerSimpson8 - HomerSimpson3(435.0333) beijaflor5(454.3853) balao2(491.3817) avevoando2(500.9232) 5peixes(501.1736)
+HomerSimpsonrosto - binoculospartevermelha(331.3639) aneldiamante5(370.9879) aneldiamante7(388.5331) aneldiamante2(400.1837) balaomensagembranco(401.1671)
+HomerSimpsonrosto2 - baleia4(381.4119) banheirabranca2(386.3936) aneldiamante7(388.2679) banheirabrancabasica(391.6376) aneldiamante2(395.9760)
+HomerSimpsonrosto3 - balao10(454.8219) aves(462.8391) HomerSimpson3(467.6452) HomerSimpson4(478.1569) baleia13(488.4158)
+anel - aneldiamante(402.5345) aneldiamante2(410.2426) 2tacosdebaseballseparados(424.2570) balaomensagem3(431.6306) aneldiamante5(433.3497)
+anel2 - beijaflor2(339.8676) anel4(386.6665) 2binoculos(388.5769) baleia12(394.9000) binoculosgrande(412.5821)
+anel3 - anel5(200.6415) aneldiamante3(428.7645) balao7(457.0099) balao8(462.6143) baleia13(466.0579)
+anel4 - banheiraluxo(329.4890) beijaflor7(373.7058) 2pinosboliche(379.2057) bandeiraEUAnuvens(379.5814) baleia6(380.7834)
+anel5 - anel3(200.6415) balao7(422.2997) aneldiamante3(431.5808) balao8(444.9168) aneldiamante6(456.2422)
+aneldiamante - bandeiraEUAcomtexto(312.7235) bandeiradosEUA(332.9474) anel(402.5345) 2tacosdebaseballseparados(405.4528) aneldiamante3(414.1063)
+aneldiamante2 - balaomensagembranco(298.7273) balaomensagembrancorepetido(298.7273) beijaflor4(303.4156) banheirabranca2(377.9272) aneldiamante5(382.2133)
+aneldiamante3 - bandeiraEUAcomtexto(354.4601) aneldiamante(414.1063) balao7(414.1582) 2tacosbaseball(428.3246) anel3(428.7645)
+aneldiamante4 - balaomensagem(318.7397) bandeiraEUAcomtexto(385.8691) bicicletamarela(395.1784) avepreta(395.5578) 2tacosdebaseballseparados(412.3676)
+aneldiamante5 - HomerSimpsonrosto(370.9879) aneldiamante2(382.2133) aneldiamante7(406.0172) balaomensagembranco(406.7518) balaomensagembrancorepetido(406.7518)
+aneldiamante6 - bicicletamarela(406.3324) aneldiamante7(413.7572) aneldiamante4(427.2376) HomerSimpson5(429.6859) avepretaebranca(431.4360)
+aneldiamante7 - banheirabrancabasica(340.5995) beijaflor6(348.2485) bicicletamarela(374.4369) beijaflor(385.9806) HomerSimpsonrosto2(388.2679)
+avelagoa - baleia15(347.0504) bicicletamarela(396.5098) avepretaebranca(429.5870) 3fatiasdemelancia(430.7087) aneldiamante7(431.9549)
+avepreta - 2pinosboliche(314.3835) balaomensagem(380.7847) binoculos2(387.3435) 2binoculos(394.2043) aneldiamante4(395.5578)
+avepretaebranca - bicicletamarela(348.6761) baleia2(372.9919) baleia4(395.5743) aneldiamante7(410.5387) banheirabrancabasica(424.8200)
+aves - avevoando2(431.2076) baleia7(456.3836) HomerSimpsonrosto3(462.8391) HomerSimpson3(476.3360) binoculosdiferente(477.0377)
+avevoando - banheiraluxo(325.3506) baleia6(332.4966) binoculosgrande(341.1349) baleia11(366.4778) bandeiraEUAnuvens(395.6488)
+avevoando2 - aves(431.2076) baleia7(455.1593) binoculos2(456.6695) baleia12(457.4090) balao2(467.2044)
+balao - 2dadosbrancos(386.5437) HomerSimpson2(413.4368) balaomensagem2(453.9086) binoculos(475.8519) HomerSimpson(476.1166)
+balao10 - balao9(404.3080) banheirabrancaluxo2(409.8317) bandeiraEUAfundobonito(436.1513) aneldiamante(443.4704) aneldiamante3(447.9129)
+balao2 - baleia14(408.5229) baleia7(418.2535) binoculoscinza(447.2807) beijaflor(457.1914) 3pneus(460.0565)
+balao3 - beijaflor8(401.5246) HomerSimpsonrosto2(403.6632) beijaflor5(421.6930) balao4(428.1367) 3pneus(428.7249)
+balao4 - baleia2(403.0682) 2tacosbaseball(404.7876) bicicletavermelha(404.8296) baleia11(415.4275) balao3(428.1367)
+balao5 - 2tacosbaseball(454.2466) balao7(465.3633) balao8(471.7955) balao3(473.8291) 2tacosdebaseballseparados(485.2937)
+balao6 - baleia5(423.8880) beijaflor5(435.5812) balao3(439.6248) 2binoculos(443.8401) baleia14(459.5476)
+balao7 - beijaflor8(392.7786) 2pinosboliche(403.4167) 2tacosbaseball(413.5323) aneldiamante3(414.1582) anel5(422.2997)
+balao8 - bicicletavermelha(428.9650) beijaflor7(436.8821) HomerSimpson3(441.5495) anel5(444.9168) balao4(446.9228)
+balao9 - balao10(404.3080) aneldiamante(419.7178) HomerSimpson4(434.7942) banheirabrancaluxo2(437.8618) balaomensagem3(455.7982)
+balaodiferente - bandeiraEUAfundobonito(379.4509) bicicletamarela(385.3570) 3boloscasamento(398.3629) bandeiraEUAgrande(422.0059) balaomensagem(436.9153)
+balaomensagem - baleia4(290.0638) aneldiamante4(318.7397) 2binoculos(335.7737) balaomensagembranco(354.1398) balaomensagembrancorepetido(354.1398)
+balaomensagem2 - HomerSimpson2(377.0106) beijaflor4(438.5613) aneldiamante2(438.6012) balaomensagembranco(443.2166) balaomensagembrancorepetido(443.2166)
+balaomensagem3 - aneldiamante2(392.4207) 2tacosdebaseballseparados(416.4457) banheirabrancaluxo(418.6013) bandeiradosEUA(422.3044) aneldiamante(427.6903)
+balaomensagembranco - balaomensagembrancorepetido(0.0000) beijaflor4(244.1823) baleia4(295.8209) aneldiamante2(298.7273) banheirabranca2(305.6027)
+balaomensagembrancorepetido - balaomensagembranco(0.0000) beijaflor4(244.1823) baleia4(295.8209) aneldiamante2(298.7273) banheirabranca2(305.6027)
+baleia - HomerSimpson2(434.9747) aneldiamante2(448.6480) banheirabrancaluxo(463.1501) 2tacosdebaseballseparados(467.5062) 5peixes(470.9989)
+baleia10 - balaodiferente(438.6901) baleia7(444.5728) HomerSimpson2(456.6169) 2fatiasdemelancia(457.8504) bandeiraEUAfundobonito(468.1517)
+baleia11 - bandeiraEUAnuvens(361.7596) avevoando(366.4778) beijaflor5(377.5685) baleia6(397.5450) balaomensagembranco(401.9254)
+baleia12 - beijaflor2(373.8904) bandeiraEUAnuvens(374.5491) anel2(394.9000) binoculosgrande(404.4329) HomerSimpson5(407.0172)
+baleia13 - bicicletavermelha(413.2542) balao8(453.6011) baleia8(455.2922) anel3(466.0579) balao6(476.8155)
+baleia14 - 3pneus(382.8851) beijaflor(393.4120) baleia5(398.5637) balao2(408.5229) beijaflor8(429.9512)
+baleia15 - avelagoa(347.0504) 3fatiasdemelancia(385.7072) balao4(445.5401) binoculosgrande(452.8410) beijaflor(453.7312)
+baleia2 - avepretaebranca(372.9919) bicicletamarela(383.4240) aneldiamante7(388.9152) banheirabrancabasica(391.4805) baleia4(398.4370)
+baleia3 - aneldiamante4(429.0991) avepreta(441.4159) HomerSimpson3(455.8947) binoculos2(460.1272) anel4(467.7756)
+baleia4 - balaomensagem(290.0638) balaomensagembranco(295.8209) balaomensagembrancorepetido(295.8209) banheirabranca2(332.6274) beijaflor4(333.2612)
+baleia5 - baleia14(398.5637) beijaflor(419.3805) balao6(423.8880) binoculoslonge(426.6251) baleia9(429.0594)
+baleia6 - avevoando(332.4966) bandeiraEUAnuvens(339.9117) banheiraluxo(357.8673) anel4(380.7834) baleia11(397.5450)
+baleia7 - beijaflor8(398.9599) 3pneus(412.1359) balao2(418.2535) balao3(438.9932) binoculoscinza(439.2562)
+baleia8 - bicicletavermelha(415.7187) beijaflor3(418.2750) balao4(429.4799) binoculos(430.6089) 2fatiasdemelancia(449.8188)
+baleia9 - binoculospartevermelha(345.4953) beijaflor9(345.6400) binoculosnormal(385.8964) HomerSimpsonrosto(410.0280) aneldiamante7(419.6963)
+bandeiraEUAcomtexto - aneldiamante(312.7235) bandeiradosEUA(336.8293) aneldiamante3(354.4601) aneldiamante4(385.8691) baleia2(405.4368)
+bandeiraEUAfundobonito - balaodiferente(379.4509) bicicletavermelha(423.2990) balao10(436.1513) baleia2(440.2170) baleia4(444.3839)
+bandeiraEUAgrande - binoculos2(388.7030) balaodiferente(422.0059) avepretaebranca(434.1152) bandeiraEUAnuvens(434.4249) aneldiamante6(437.9943)
+bandeiraEUAnuvens - beijaflor4(281.7250) banheiraluxo(324.3409) baleia6(339.9117) balaomensagembranco(343.4065) balaomensagembrancorepetido(343.4065)
+bandeiradosEUA - aneldiamante(332.9474) bandeiraEUAcomtexto(336.8293) baleia2(401.1147) banheirabranca2(417.1690) balaomensagem3(422.3044)
+banheirabranca - 5peixes(381.1115) 2binoculos(389.4817) baleia5(441.1496) 2pinosboliche(447.3522) beijaflor8(464.8677)
+banheirabranca2 - balaomensagembranco(305.6027) balaomensagembrancorepetido(305.6027) baleia4(332.6274) balaomensagem(355.9888) beijaflor4(364.7026)
+banheirabrancabasica - aneldiamante7(340.5995) baleia2(391.4805) HomerSimpsonrosto2(391.6376) banheirabrancaluxo(392.2346) banheirabranca2(415.6345)
+banheirabrancaluxo - banheirabrancabasica(392.2346) HomerSimpson2(408.0870) baleia2(408.5548) balaomensagem3(418.6013) HomerSimpson7(425.2552)
+banheirabrancaluxo2 - balao10(409.8317) balao9(437.8618) aneldiamante(462.5084) bicicletavermelha(463.2321) 3boloscasamento(464.2930)
+banheiraluxo - bandeiraEUAnuvens(324.3409) avevoando(325.3506) anel4(329.4890) balaomensagembranco(351.8878) balaomensagembrancorepetido(351.8878)
+beijaflor - aneldiamante7(385.9806) HomerSimpson7(391.2736) baleia14(393.4120) baleia5(419.3805) 3pneus(437.0583)
+beijaflor2 - binoculosgrande(333.2267) anel2(339.8676) baleia12(373.8904) 2fatiasdemelancia(405.5823) banheiraluxo(410.3900)
+beijaflor3 - baleia8(418.2750) 2binoculos(439.6271) balaodiferente(450.8736) balao3(460.3368) baleia14(463.0724)
+beijaflor4 - balaomensagembranco(244.1823) balaomensagembrancorepetido(244.1823) bandeiraEUAnuvens(281.7250) aneldiamante2(303.4156) baleia4(333.2612)
+beijaflor5 - baleia11(377.5685) HomerSimpsonrosto(404.3625) balaomensagembranco(413.2312) balaomensagembrancorepetido(413.2312) balao3(421.6930)
+beijaflor6 - aneldiamante7(348.2485) HomerSimpson(420.0583) baleia2(428.8426) avelagoa(434.4652) banheirabrancabasica(440.9274)
+beijaflor7 - anel4(373.7058) avevoando(424.2311) binoculosgrande(426.5665) baleia6(428.2383) anel2(428.2908)
+beijaflor8 - 3pneus(322.3026) 2pinosboliche(389.5125) balao7(392.7786) baleia7(398.9599) 2binoculos(399.9325)
+beijaflor9 - baleia9(345.6400) binoculospartevermelha(415.1217) binoculosnormal(459.0349) HomerSimpsonrosto(465.4632) HomerSimpson2(475.3031)
+bicicletamarela - avepretaebranca(348.6761) aneldiamante7(374.4369) balaomensagem(374.7813) baleia2(383.4240) balaodiferente(385.3570)
+bicicletavermelha - balao4(404.8296) baleia13(413.2542) HomerSimpson5(415.2313) baleia8(415.7187) bandeiraEUAfundobonito(423.2990)
+binoculos - 2fatiasdemelancia(405.5897) baleia12(412.0728) beijaflor2(427.9977) baleia8(430.6089) anel2(436.8364)
+binoculos2 - 2binoculos(374.3314) avepreta(387.3435) bandeiraEUAgrande(388.7030) balaomensagem(399.1291) bicicletamarela(418.4770)
+binoculoscinza - HomerSimpson6(388.2332) binoculoslonge(411.8604) binoculosgrande(411.9502) baleia11(422.6630) 3pneus(432.5182)
+binoculosdiferente - beijaflor2(424.3678) baleia8(452.0863) baleia6(459.8141) anel4(460.6224) beijaflor7(466.8779)
+binoculosgrande - beijaflor2(333.2267) avevoando(341.1349) banheiraluxo(353.6100) anel4(386.4958) baleia12(404.4329)
+binoculoslonge - HomerSimpsonrosto(411.4997) binoculoscinza(411.8604) 3pneus(423.7558) baleia5(426.6251) 5peixes(437.0309)
+binoculosnormal - binoculospartevermelha(314.2213) baleia9(385.8964) aneldiamante7(400.9651) HomerSimpsonrosto(410.7396) 3pneus(415.5647)
+binoculospartevermelha - binoculosnormal(314.2213) HomerSimpsonrosto(331.3639) baleia9(345.4953) beijaflor9(415.1217) aneldiamante7(428.8426)
+
+balaomensagembranco,balaomensagembrancorepetido - 0.0000
+anel3,anel5 - 200.6415
+balaomensagembranco,beijaflor4 - 244.1823
+balaomensagembrancorepetido,beijaflor4 - 244.1823
+bandeiraEUAnuvens,beijaflor4 - 281.7250
+balaomensagem,baleia4 - 290.0638
+balaomensagembranco,baleia4 - 295.8209
+balaomensagembrancorepetido,baleia4 - 295.8209
+aneldiamante2,balaomensagembranco - 298.7273
+aneldiamante2,balaomensagembrancorepetido - 298.7273
+aneldiamante2,beijaflor4 - 303.4156
+balaomensagembranco,banheirabranca2 - 305.6027
+balaomensagembrancorepetido,banheirabranca2 - 305.6027
+aneldiamante,bandeiraEUAcomtexto - 312.7235
+binoculosnormal,binoculospartevermelha - 314.2213
+2pinosboliche,avepreta - 314.3835
+aneldiamante4,balaomensagem - 318.7397
+3pneus,beijaflor8 - 322.3026
+bandeiraEUAnuvens,banheiraluxo - 324.3409
+avevoando,banheiraluxo - 325.3506
+anel4,banheiraluxo - 329.4890
+HomerSimpsonrosto,binoculospartevermelha - 331.3639
+avevoando,baleia6 - 332.4966
+baleia4,banheirabranca2 - 332.6274
+aneldiamante,bandeiradosEUA - 332.9474
+beijaflor2,binoculosgrande - 333.2267
+baleia4,beijaflor4 - 333.2612
+2binoculos,balaomensagem - 335.7737
+bandeiraEUAcomtexto,bandeiradosEUA - 336.8293
+anel2,beijaflor2 - 339.8676
+baleia6,bandeiraEUAnuvens - 339.9117
+aneldiamante7,banheirabrancabasica - 340.5995
+avevoando,binoculosgrande - 341.1349
+balaomensagembranco,bandeiraEUAnuvens - 343.4065
+balaomensagembrancorepetido,bandeiraEUAnuvens - 343.4065
+baleia9,binoculospartevermelha - 345.4953
+baleia9,beijaflor9 - 345.6400
+avelagoa,baleia15 - 347.0504
+aneldiamante7,beijaflor6 - 348.2485
+avepretaebranca,bicicletamarela - 348.6761
+balaomensagembranco,banheiraluxo - 351.8878
+balaomensagembrancorepetido,banheiraluxo - 351.8878
+banheiraluxo,binoculosgrande - 353.6100
+balaomensagem,balaomensagembranco - 354.1398
+balaomensagem,balaomensagembrancorepetido - 354.1398
+aneldiamante3,bandeiraEUAcomtexto - 354.4601
+balaomensagem,banheirabranca2 - 355.9888
+baleia6,banheiraluxo - 357.8673
+baleia11,bandeiraEUAnuvens - 361.7596
+banheirabranca2,beijaflor4 - 364.7026
+
